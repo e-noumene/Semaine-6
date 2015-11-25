@@ -4,5 +4,5 @@
 
 **Exercice 1** : Intégrer Twitter Boostrap dans votre CV en ligne.  
 
- Vous trouverez le code de ce CV ci-dessus et ce que ça donne : ici  
+ Vous trouverez le code de ce CV ci-dessus et ce que ça donne : [ici](http://e-noumene.github.io/Semaine-6)  
 
